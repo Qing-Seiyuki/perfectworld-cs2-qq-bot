@@ -1,4 +1,4 @@
-# QQ CS2 官方机器人
+# QQ CS2战绩查询 机器人
 
 通过 QQ 官方机器人查询完美平台 CS2 战绩、绑定 Steam 账号，并生成五人战报。自动赛后播报使用本机 NapCat 发送端。职业赛事查询和 CS2 更新由[独立赛事项目](https://github.com/Qing-Seiyuki/napcat-cs2-live-qq-bot)负责。
 
